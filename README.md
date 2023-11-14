@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Syncopate&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile+page" alt="Typing SVG">
 </p>
 
-<p align="center">
+<div align="center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxMuha&theme=graywhite&show_icons=true)
 
-</p>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMuha&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
