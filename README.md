@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Syncopate&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile+page" alt="Typing SVG">
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Syncopate&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile+page" alt="Typing SVG">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxMuha&show_icons=true&bg_color=00000000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMuha&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
