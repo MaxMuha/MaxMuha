@@ -1,4 +1,4 @@
-<h1 align="center"><font face="Syncopate">Hi, I'm Max</font></h1>
+<h1 align="center"><font face="syncopate">Hi, I'm Max</font></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Syncopate&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile+page" alt="Typing SVG">
