@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Max</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gloria+Hallelujah&pause=1000&color=1F6FEB&background=0674FF00&random=false&width=435&lines=I’m+currently+learning+the+CSharp" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com
+  font=Gloria+Hallelujah&pause=1000&color=1F6FEB&background=0674FF00&random=false&width=435&lines=I’m+currently+learning+the+CSharp" alt="Typing SVG" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxMuha&show_icons=true&bg_color=00000000)
 
