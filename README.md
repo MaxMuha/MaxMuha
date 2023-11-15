@@ -8,6 +8,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxMuha&theme=graywhite&show_icons=true)
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=MaxMuha)](https://github.com/MaxMuha/github-readme)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxMuha&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
